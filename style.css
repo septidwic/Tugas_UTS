@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+    background-color:#FFFFCC;
+}
+#main {
+    width:960px;
+    height:auto;
+    margin:0 auto;
+    border:solid;
+    border-color:#999999;    
+    overflow:hidden;
+    background:#FFFF99;
+}
+    #main a{
+        text-decoration:none;
+        color:red;
+            }
+        #main a:hover{
+        text-decoration:none;
+            color:green;
+            }/
+
